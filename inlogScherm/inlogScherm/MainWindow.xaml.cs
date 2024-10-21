@@ -35,10 +35,7 @@ namespace inlogScherm
 
 
             string catboys = "cute";
-            if (catboys == "cute")
-            {
-                NameTextBox.Text = "cummies";
-            }
+           
         }
     }
 }
