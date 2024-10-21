@@ -17,7 +17,7 @@
             <RowDefinition/>
             <RowDefinition/>
         </Grid.RowDefinitions>
-        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">Naam</TextBlock>
+        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">Gebruikersnaam</TextBlock>
         <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="1">
 Wachtwoord</TextBlock>
         <TextBox Name="NameTextBox" Grid.Row="0" Grid.Column="1" Margin="10"></TextBox>
