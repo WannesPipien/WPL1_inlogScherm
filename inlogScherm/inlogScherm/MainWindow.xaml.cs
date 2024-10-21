@@ -30,6 +30,7 @@ namespace inlogScherm
         private void LogOffButton_Click(object sender, RoutedEventArgs e)
         {
             InfoTextBlock.Text = "";
+            //gg ez get good ;;;;
 
 
 
